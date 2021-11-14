@@ -12,6 +12,8 @@ Amazon- They got to be the world leaders in inventory management and customer sa
 Every business has this data in one form or the other but it has to be cleaned and prepared into a state that can be used by Machine Learning to learn from. i.e Data has to be pre processed.
 A real-world data generally contains noises, missing values, and maybe in an unusable format which cannot be directly used for machine learning models. Data pre processing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
 
+Even in hackathons
+
 ## PROBLEM STATEMENTS
 
 1.	Real world data is not always in suitable format
@@ -37,8 +39,11 @@ Our model can do the following tasks
 ### Detailed Block diagram of each feature in our model is described below
 
 <img width="698" alt="Block_diagram1" src="https://user-images.githubusercontent.com/73331349/141665723-2a18fe60-e9e9-4094-93a1-fda9ea0e8378.png">
+
 <img width="695" alt="Block_diagram2" src="https://user-images.githubusercontent.com/73331349/141665726-2ac73f4e-1029-422a-a0e0-2c18d9ee04ba.png">
+
 <img width="695" alt="Block_diagram3" src="https://user-images.githubusercontent.com/73331349/141665734-164bd031-ec9b-4d67-832e-d97d852fe1d3.png">
+
 <img width="695" alt="Block_diagram4" src="https://user-images.githubusercontent.com/73331349/141665740-c9404dd8-8908-4fce-a386-81c71793eddc.png">
 
 
