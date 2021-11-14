@@ -12,7 +12,7 @@ Amazon- They got to be the world leaders in inventory management and customer sa
 Every business has this data in one form or the other but it has to be cleaned and prepared into a state that can be used by Machine Learning to learn from. i.e Data has to be pre processed.
 A real-world data generally contains noises, missing values, and maybe in an unusable format which cannot be directly used for machine learning models. Data pre processing is required tasks for cleaning the data and making it suitable for a machine learning model which also increases the accuracy and efficiency of a machine learning model.
 
-Even in hackathons
+Data pre processing is time consuming and we have had the experience. Even during hackathons, most of our time was spend on pre processing the data set to make it fit into machine learning model , Thereby leaving us a very little time to build the actual model.
 
 ## PROBLEM STATEMENTS
 
